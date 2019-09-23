@@ -154,10 +154,3 @@ def update_recur(adj, activations, update, debug=False):
     new_adj = np.clip(adj + adjust, 0, 1)
     np.fill_diagonal(new_adj, 0)
     return new_adj
-
-
-def compute_adjacency(W):
-    """Given a weight matrix W, return an adjacency matrix"""
-    A = W.copy()
-    A[A > 0.0] = 1.0
-    return A
