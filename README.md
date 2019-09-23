@@ -1,5 +1,7 @@
 # SAMPL: The Spreading Activation and Memory PLasticity Model
 
+![SAMPL conceptual figure](figure_github.png)
+
 ## Authors
 
 Beau Sievers<sup>1</sup>, Ida Momennejad<sup>2</sup>
