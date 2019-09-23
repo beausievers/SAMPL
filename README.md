@@ -12,7 +12,7 @@ Beau Sievers<sup>1</sup>, Ida Momennejad<sup>2</sup>
 
 This repository contains code for running the simulations and analyses described in the paper "SAMPL: The Spreading Activation and Memory PLasticity Model," available at: https://www.biorxiv.org/content/10.1101/778563v1
 
-This repository does **NOT** contain the [word2vec embedding of the Google News Dataset](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing), which is required to run the simulation of Anderson, Bjork, and Bjork (1994) and the two-agent memory convergence simulation. Before running these simulations, place the Google News embedding file in the `/data` directory.
+This repository does **NOT** contain the [word2vec embedding of the Google News Dataset](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing), which is required to run the Anderson, Bjork, and Bjork (1994) and two-agent memory convergence simulations. Before running these simulations, place the Google News embedding file in the `/data` directory.
 
 ## Requirements
 
