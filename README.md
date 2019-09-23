@@ -16,7 +16,7 @@ This repository does **NOT** contain the [word2vec embedding of the Google News 
 
 ## Requirements
 
-All scripts were tested on Mac OS 10.14.6. Library requirements are listed in `requirements.txt`.
+All code was tested on Mac OS 10.14.6. Library requirements are listed in `requirements.txt`.
 
 ## File structure
 
